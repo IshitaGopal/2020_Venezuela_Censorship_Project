@@ -1,4 +1,4 @@
-# The timing of Censorship
+# The Timing of Internet Censorship
 
 This study analyses the content of the tweets posted by the opposition members of the National Assembly (2015-2017) in 
 Venezuela for the time period between 1st to 31st January, 2019. The aim of this analysis is to identify the evolution of 
