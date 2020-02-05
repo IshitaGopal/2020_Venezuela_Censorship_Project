@@ -13,5 +13,5 @@ extract the topics and analyze how their prevalence change over time.
 
 
 
-![Alt text](/Users/ishitagopal/Box/twitter_data/plot_trend.pdf?raw=true "Title")
+![Alt text](/Users/ishitagopal/Box/twitter_data/plot_trend-1.png?raw=true "Title")
 
