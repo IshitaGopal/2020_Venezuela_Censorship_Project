@@ -1,6 +1,6 @@
 # The Timing of Internet Censorship
 
-## [This](/Twitter_Analysis_ig.pdf) file contains pleminary analysis of tweets from 33 verified Twitter accounts of Venezuelan politicians (who are in the opposition). The time period of this analysis covers January 2019. The approach uses the structural topic model. 
+### [This](/Twitter_Analysis_ig.pdf) file contains pleminary analysis of tweets from 33 verified Twitter accounts of Venezuelan politicians (who are in the opposition). The time period of this analysis covers January 2019. The approach uses the structural topic model. 
 
 
 This study analyses the content of the tweets posted by the opposition members of the National Assembly (2015-2017) in 
