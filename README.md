@@ -1,5 +1,8 @@
 # The Timing of Internet Censorship
 
+## This file contains pleminary analysis of 33 verified Twitter accounts of Venezuelan politicians in the opposition. The time period of this analysis covers January 2019. 
+
+
 This study analyses the content of the tweets posted by the opposition members of the National Assembly (2015-2017) in 
 Venezuela for the time period between 1st to 31st January, 2019. The aim of this analysis is to identify the evolution of 
 topics over time so that the results can be used to support the study of online censorship in the country. The underlying 
